@@ -1,16 +1,14 @@
-## Hi there 👋
+# TEMPO AI
 
-<!--
-**TEMPO-AI-LLC/tempo-ai-llc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Minimal company profile site for GitHub Pages.
 
-Here are some ideas to get you started:
+AI products that help teams scale faster.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Products
+
+- [LOVALINGO](https://lovalingo.com) - Translation tool
+- [ELSON AI](https://github.com/TEMPO-AI-LLC/elson.ai) - Open-source Whisper Flow alternative
+
+## Contact
+
+[Charles Perret on LinkedIn](https://www.linkedin.com/in/charlesperret/)
