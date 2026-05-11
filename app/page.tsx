@@ -13,7 +13,12 @@ export default function Home() {
           <span className="brand-ai">AI</span>
         </a>
 
-        <a className="text-link header-link" href={linkedInUrl} rel="noopener">
+        <a
+          className="text-link header-link"
+          href={linkedInUrl}
+          rel="noopener"
+          target="_blank"
+        >
           CONTACT
         </a>
       </header>
@@ -26,7 +31,7 @@ export default function Home() {
 
       <footer className="site-footer">
         <span>© 2026 TEMPO AI</span>
-        <a className="text-link" href={linkedInUrl} rel="noopener">
+        <a className="text-link" href={linkedInUrl} rel="noopener" target="_blank">
           CONTACT
         </a>
       </footer>
