@@ -21,7 +21,7 @@ const products: Product[] = [
   {
     index: "02",
     name: "ELSON AI",
-    description: "Open-source Whisper Flow alternative",
+    description: "Local-first macOS voice assistant",
     href: "https://github.com/TEMPO-AI-LLC/elson.ai",
     domain: "github.com/TEMPO-AI-LLC/elson.ai",
   },
@@ -57,6 +57,7 @@ export function ProductGrid() {
             onPointerLeave={clearPointerVars}
             onPointerMove={updatePointerVars}
             rel="noopener"
+            target="_blank"
           >
             <span className="product-index">{product.index}</span>
             <span className="product-name">{product.name}</span>
